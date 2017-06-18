@@ -1,0 +1,15 @@
+.content {
+	width: 960px;
+	height: auto;
+	background: #ffffff;
+	border-color: #dddddd;
+}
+h1 {
+	background: #4aaaa5;
+	color: white
+	font:serif;
+
+}
+footer {
+	background: #666666;
+}
