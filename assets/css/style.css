@@ -1,15 +1,19 @@
-.content {
-	width: 960px;
-	height: auto;
-	background: #ffffff;
-	border-color: #dddddd;
+body {
+	background-image: url("concrete-texture.png");
 }
-h1 {
-	background: #4aaaa5;
-	color: white
-	font:serif;
+.content{
+	width: 960px;
+	float:center;
 
 }
-footer {
-	background: #666666;
+
+h2{
+	background: #4aaaa5;
+	color:#ffffff;
+	border-color: #dddddd;
+	float;left: 
+	margin-left: 50px;
+}
+h4{
+	float:right;
 }
