@@ -1,6 +1,7 @@
 /*main header*/
-.mainheader{}
+.mainheader{width:970px;}
 h1{
+	width: 200px;
 	background: #ffffff;
 	border-color: #cccccc;
 	border-style: solid;
@@ -15,23 +16,27 @@ h1{
 }
 /*body*/
 body{
-	width: 960px;
+	
 }
 /*main article*/
 .aboutme{
 	width: 650px;
 	float:left;
-	margin-left:-200px;
+	margin-top: 20px;
+	margin-left:-208px;
 	border-style: solid;
 	border-color: #dddddd;
 
 }
 /*aside*/
 aside{
-	float:; left;
+	float: right;
 	border-style: solid;
 	border-color: #dddddd;
 	width: 270px;
+	text-align: center;
+	margin-top:20px;
+
 }
 	
 /*footer*/
@@ -45,8 +50,12 @@ aside{
 }
 /*icons*/
 a img{
+	position:relative;
+	margin-left:5px;
+
 	height: 50px;
 	width: 50px;
+	float:left;
 }
 /*footer*/
 footer {
@@ -64,5 +73,8 @@ img{
 	height: 100px;
 }
 
-/**/
+/*form*/
+form{
+	float:left;
+}
 
