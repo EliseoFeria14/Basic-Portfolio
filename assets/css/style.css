@@ -1,19 +1,68 @@
-body {
-	background-image: url("concrete-texture.png");
+/*main header*/
+.mainheader{}
+h1{
+	background: #ffffff;
+	border-color: #cccccc;
+	border-style: solid;
+	border-color: black;
+	float: left;
+	margin-left:100px;
 }
-.content{
-	width: 960px;
-	float:center;
-
-}
-
-h2{
-	background: #4aaaa5;
-	color:#ffffff;
-	border-color: #dddddd;
-	float;left: 
-	margin-left: 50px;
-}
-h4{
+.miniheader{
 	float:right;
+	margin: 30px 5px 5px 0px;
+	border-color:#cccccc;
 }
+/*body*/
+body{
+	width: 960px;
+}
+/*main article*/
+.aboutme{
+	width: 650px;
+	float:left;
+	margin-left:-200px;
+	border-style: solid;
+	border-color: #dddddd;
+
+}
+/*aside*/
+aside{
+	float:; left;
+	border-style: solid;
+	border-color: #dddddd;
+	width: 270px;
+}
+	
+/*footer*/
+
+/*profile image*/
+.Portfolioimg{
+	width: 160px;
+	height: 160px;
+	float:left;
+	padding-right: 20px;
+}
+/*icons*/
+a img{
+	height: 50px;
+	width: 50px;
+}
+/*footer*/
+footer {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: #666666;
+	text-align: center;
+	color: #ffffff;
+}
+/*porfolio images*/
+img{
+	height: 100px;
+	height: 100px;
+}
+
+/**/
+
